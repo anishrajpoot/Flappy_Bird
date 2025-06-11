@@ -23,6 +23,6 @@ This is a fun and interactive Flappy Bird game built using **ReactJS**. The game
 
 ![Flappy Bird Screenshot](https://github.com/anishrajpoot/Flappy_Bird/blob/16277d169bcc2d704f1a69f9d0ab6674e9891110/Project-3/public/Screenshot%202025-06-11%20185346.png)
 
-![Flappy Bird Screenshot]()
+![Flappy Bird Screenshot](https://github.com/anishrajpoot/Flappy_Bird/blob/eaf08a016111363335833e159a8a6a377d9ae57b/Project-3/public/Screenshot%202025-06-11%20185423.png)
 
-![Flappy Bird Screenshot]
+![Flappy Bird Screenshot]()
